@@ -4,7 +4,8 @@
 # To download, click the green "code" button, and click "Download ZIP".
 (If it doesn't show, try resizing your browser window or rotating your device.)
 
-To install for use with Logic Pro X, extract the folder from the .zip file that you downloaded by double clicking it.
+# To install for use with Logic Pro X:
+Extract the folder from the .zip file that you downloaded by double clicking it.
 
 Then, open Logic Pro X, right click (control + click) on a track's default icon, click the "Custom Icons" tab, and then the plus sign. 
 
