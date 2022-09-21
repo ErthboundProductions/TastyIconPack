@@ -1,7 +1,5 @@
 56 free and open source Music Icons for use with Logic Pro X and other DAWs in five tasty colors. Inspired by the Erthbound Brand. Created by yours truly
 
-To download, click the green "code" button, and download the .zip
-
 To install for use with Logic Pro X, extract the folder from the .zip file that you downloaded by double clicking it.
 
 Then, open Logic Pro X, right click (control + click) on a track's default icon, click the "Custom Icons" tab, and then the plus sign.
